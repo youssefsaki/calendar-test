@@ -6,7 +6,8 @@ const LeftSection = () => {
     <section className="w-full lg:w-6/12 text-center lg:text-left space-y-6">
       
       <h1 className="text-white text-5xl lg:text-6xl font-bold leading-tight">
-        Booking Calendar
+        Booking Calendar 
+        <span className="block">+ Pricing</span>
       </h1>
 
       <p className="text-[1.1rem] leading-relaxed max-w-md mx-auto lg:mx-0">
